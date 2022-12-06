@@ -2,11 +2,11 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "News"
-    url: "/services/"
-    weight: 2
   - name: "Team"
     url: "/team/"
+    weight: 2
+  - name: "News"
+    url: "/services/"
     weight: 3
   - name: "About"
     url: "/about/"
