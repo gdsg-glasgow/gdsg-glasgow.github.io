@@ -3,7 +3,7 @@ title: "Dr. Mingshu Wang"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/mingshu.png"
 jobtitle: "Senior Lecturer in Geospatial Data Science"
-email: "Mingshu.Wang [at] glasgow.ac.uk"
+email: "Mingshu.Wang@glasgow.ac.uk"
 promoted: true
 staff: true
 weight: 2

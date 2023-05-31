@@ -3,7 +3,7 @@ title: "Lorna Gee"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/lorna.png"
 jobtitle: "Administrative Assistant"
-email: "Lorna.Gee [at] glasgow.ac.uk"
+email: "Lorna.Gee@glasgow.ac.uk"
 promoted: true
 staff: true
 weight: 4

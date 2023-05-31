@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 image: "images/team/ziqi.jpg"
 jobtitle: "Lecturer in Geospatial Information Science"
 #twitter: "https://twitter.com/geo_ziqi"
-email: "Ziqi.Li [at] glasgow.ac.uk"
+email: "Ziqi.Li@glasgow.ac.uk"
 promoted: true
 staff: true
 weight: 3
