@@ -12,4 +12,5 @@ weight: 3
 <img src="/images/team/miguel.png" alt="miguel avatar" width="200"/>
 
 **Funding:** UKRI
+
 **Research interests:** GNSS, Radio Navigation, Sensor Fusion, DSP, Data Science
