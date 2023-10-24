@@ -5,7 +5,7 @@ image: "images/team/edo.jpg"
 jobtitle: "PhD Candidate in Geospatial Data Science"
 twitter : "https://twitter.com/edo_barbieri"
 promoted: true
-student: true
+alumni: true
 weight: 2
 ---
 

@@ -4,6 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 image: "images/team/guy.jpg"
 jobtitle: "Research Associate in Mathematics of Cities"
 twitter: "https://twitter.com/Guy_S_Solomon"
+twitter_handle: "@Guy_S_Solomon"
 email: "Guy.Solomon@glasgow.ac.uk"
 promoted: true
 staff: true
