@@ -12,4 +12,4 @@ weight: 3
 
 <img src="/images/team/dominic.jpg" alt="dominic avatar" width="200"/>
 
-* Research interests: Missing Data, Network Analysis, Data Analytics in general
+**Research interests:** Missing Data, Network Analysis, Data Analytics in general

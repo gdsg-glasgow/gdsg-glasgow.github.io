@@ -10,4 +10,3 @@ weight: 4
 
 <img src="/images/team/piet.png" alt="piet avatar" width="200"/>
 
-**Research interests:**

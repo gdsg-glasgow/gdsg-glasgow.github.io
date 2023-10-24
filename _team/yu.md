@@ -9,5 +9,3 @@ weight: 3
 ---
 
 <img src="/images/team/yu.png" alt="yu avatar" width="200"/>
-
-**Research interests:**
